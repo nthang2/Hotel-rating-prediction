@@ -2,7 +2,7 @@
 Machine learning project
 ## Instructions for installing and running the program
 ### Libarary Used (you need to install all with newest version)
-1.Pandas \n
+1.Pandas
 2.Numpy
 3.Seaborn
 4.Matplotlib
