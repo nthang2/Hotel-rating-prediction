@@ -13,4 +13,5 @@ Machine learning project
 9.WordCloud
 10.Scikitlearn(sklearn)
 11.TfidfVectorizer
-
+12.yellobrick
+13.ibmlearn
